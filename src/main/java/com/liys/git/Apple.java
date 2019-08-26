@@ -2,6 +2,7 @@ package com.liys.git;
 
 public class Apple {
 public void main() {
-	System.out.print("a");
+	System.out.print("c");
+	System.out.print("d");
 }
 }
